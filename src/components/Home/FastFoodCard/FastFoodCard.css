@@ -1,0 +1,7 @@
+.cat-title{
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+}
